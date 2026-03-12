@@ -1,0 +1,3 @@
+{"ts": "2026-03-12T09:13:36.706996", "level": "INFO", "module": "logger_setup", "message": "Logging started. session=session_20260312_091336  log=logs\\session_20260312_091336.log  jsonl=logs\\session_20260312_091336.jsonl"}
+{"ts": "2026-03-12T09:13:36.707236", "level": "INFO", "module": "__main__", "message": "Session session_20260312_091336 started."}
+{"ts": "2026-03-12T09:13:36.708161", "level": "INFO", "module": "__main__", "message": "Loading dataset  source=sklearn \u2026"}

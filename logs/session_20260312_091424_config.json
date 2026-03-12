@@ -1,0 +1,40 @@
+{
+  "hyperparams": {
+    "learning_rate": 0.01,
+    "hidden_layers": [
+      32
+    ],
+    "activation": "relu",
+    "optimizer": "adam",
+    "batch_size": 16,
+    "epochs": 30,
+    "l2_lambda": 0.0001,
+    "dropout_rate": 0.0
+  },
+  "llm": {
+    "api_key": "",
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini",
+    "max_tokens": 2048,
+    "temperature": 0.3
+  },
+  "agent": {
+    "max_iterations": 3,
+    "patience": 5,
+    "target_accuracy": 0.99,
+    "min_improvement": 0.002,
+    "use_heuristic_fallback": true,
+    "log_dir": "logs",
+    "results_dir": "results"
+  },
+  "data": {
+    "source": "sklearn",
+    "sklearn_dataset": "iris",
+    "local_path": "",
+    "label_column": "",
+    "test_size": 0.2,
+    "val_size": 0.1,
+    "normalize": true,
+    "random_state": 42
+  }
+}
