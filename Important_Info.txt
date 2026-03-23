@@ -1,0 +1,9 @@
+id,full_name,email,signup_date,plan_type,monthly_spend
+101,Julian Thorne,j.thorne@example.com,2025-11-12,Premium,49.99
+102,Amara Okafor,amara.ok@workspace.net,2025-12-05,Basic,15.00
+103,Leo Sterling,lsterling88@provider.com,2026-01-18,Pro,29.50
+104,Sanae Tanaka,s.tanaka@global.jp,2026-02-10,Premium,49.99
+105,Marcus Vane,mvane@startup.io,2026-02-22,Basic,15.00
+106,Elena Rodriguez,elena.rod@services.org,2026-03-01,Pro,29.50
+107,Kofi Mensah,k.mensah@network.com,2026-03-15,Free,0.00
+108,Isla Bennett,isla.b@design.co,2026-03-20,Pro,29.50
