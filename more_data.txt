@@ -1,0 +1,9 @@
+sku_id,product_name,category,unit_price,stock_level,reorder_required
+AP-992,Ultralight Backpack,Outdoors,120.00,14,false
+BT-041,Noise-Canceling Buds,Electronics,189.50,5,true
+HM-118,Ergonomic Desk Chair,Furniture,345.00,2,true
+AP-773,Titanium Spork,Outdoors,12.95,142,false
+BT-055,Mechanical Keyboard,Electronics,115.00,28,false
+HM-209,Smart LED Floor Lamp,Furniture,89.00,0,true
+KD-441,Cast Iron Skillet,Kitchen,55.00,19,false
+KD-312,High-Speed Blender,Kitchen,210.00,8,true
